@@ -1,4 +1,4 @@
-# java_salary_calculation_and_data_insertion_in_sql
+# Java_salary_calculation_and_data_insertion_in_sql
 The Main Concept of this Programme is to calculate Salary of the Employee .And to Perform various Functions Like Insertion, Deletion and Fetching of Data 
 I myself created this Project having the basic concept to Calculate Salary .
 You have to edit few lines in the Programme to make this Code work and they are 
