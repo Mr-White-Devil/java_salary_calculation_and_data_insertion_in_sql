@@ -9,11 +9,11 @@ Make sure to change them Accordingly
 Make sure to also install Mysql connector to java for the usage of the Programme 
 
 ***************************
-# Thankyou 
+## Thankyou 
 
 I would like to Thank github user @htorun for the usage of DB Table printer.and the part of content and project belongs to the respective owner. For more information Read the license and terms of GNU GENERAL PUBLIC LICENCE 
 ***************************
-# LICENCE
+## LICENCE
 
 Salary Calculation and Performing of various Functions Like Insertion, Deletion and Fetching of Data in MySQL.Copyrights(C)2023 Mohammed Sharafath .S
 Email: mohammedsharafath18@gmail.com
